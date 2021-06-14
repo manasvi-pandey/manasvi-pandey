@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Profile 👋, my name is Manasvi Pandey
+I am a Web Software Developer by proffesion. I have decent knowledge of PHP with Laravel Framework, JavaScript, ReactJS and VueJS.
+Apart from this boring programming stuff I love to Sing and Game
 
 <!--
 **manasvi-pandey/manasvi-pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
